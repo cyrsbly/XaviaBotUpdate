@@ -6,5 +6,5 @@
 		"./plugins/commands/general/brainly.js",
 	],
 	"removed": [],
-	"preVersion": "2.1.2"
+	"preVersion": "2.1.3"
 }
